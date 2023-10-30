@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8"></META>
+        <title></title>
+    </head>
+    <body>
+        <table border="1">
+            <h1>Liste des comptes</h1>
+            <tr>
+                <th>code</th><th>solde</th><th>dataCreation</th>
+            </tr>
+            <tr>
+                <td>0</td><td>5.2</td><td>2008-05-07</td>
+            </tr>
+        </table>
+    </body>
+</html>
